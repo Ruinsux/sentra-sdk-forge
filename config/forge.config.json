@@ -1,0 +1,7 @@
+{
+  "projectName": "Sentra-Core",
+  "sdkNamespace": "SentraCore",
+  "outputDir": "./sdk-output",
+  "languages": ["typescript", "csharp", "python", "go"],
+  "versionFile": "./sdk-output/version.json"
+}

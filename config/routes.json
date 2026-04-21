@@ -1,0 +1,27 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/me",
+      "name": "getMe",
+      "auth": "user",
+      "query": {},
+      "params": {},
+      "body": null,
+      "response": {
+        "kind": "model",
+        "name": "User"
+      }
+    }
+  ],
+  "models": [
+    {
+      "name": "User",
+      "fields": {
+        "id": { "kind": "primitive", "type": "string" },
+        "email": { "kind": "primitive", "type": "string" },
+        "createdAt": { "kind": "primitive", "type": "string" }
+      }
+    }
+  ]
+}
