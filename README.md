@@ -18,7 +18,7 @@ Sentra SDK Forge is a standalone, language‑agnostic SDK generator built for th
 - A valid routes.json manifest exported from Sentra‑Core
 
 ## INSTALLATION
-git clone https://github.com/yourname/sentra-sdk-forge (github.com in Bing)
+https://github.com/Ruinsux/sentra-sdk-forge (github.com)
 cd sentra-sdk-forge
 bun install
 
